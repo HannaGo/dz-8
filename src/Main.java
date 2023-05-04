@@ -38,8 +38,8 @@ public class Main {
 
         List<Tasks> tasksListGroup = new LinkedList<>();
         Tasks task1 = new Tasks("Do task1.");
-        Tasks task2 = new Tasks("Do task1.");
-        Tasks task3 = new Tasks("Do task1.");
+        Tasks task2 = new Tasks("Do task2.");
+        Tasks task3 = new Tasks("Do task3.");
 
     }
 }
